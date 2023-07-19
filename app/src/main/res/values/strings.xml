@@ -10,4 +10,5 @@
     <string name="title_activity_main">MainActivity</string>
     <string name="complication_label">Example complication</string>
     <string name="hi">Hi</string>
+    <string name="tick">all done</string>
 </resources>

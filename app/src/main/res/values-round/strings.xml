@@ -1,4 +1,5 @@
 <resources>
     <string name="hello_world">From the Round world,\nHello, %1$s!</string>
     <string name="hi">Hello</string>
+    <string name="tick">all done</string>
 </resources>
